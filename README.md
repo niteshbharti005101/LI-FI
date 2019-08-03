@@ -2,9 +2,11 @@
 This can be operated using IOT through google assistant.
 
 
-Transmission of data through light with the help of air medium.
-Comparing the speeds of Wi-Fi and Li-Fi.
-More secure network between 2 or more devices.
+*BTransmission of data through light with the help of air medium.
+
+*BComparing the speeds of Wi-Fi and Li-Fi.
+
+*BMore secure network between 2 or more devices.
 
 
 **Connection of google assistant to NodeMcu with the help of Adafruit:-**
