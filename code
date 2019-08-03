@@ -7,8 +7,8 @@
 
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
-#define MQTT_NAME "niteshbharti5101"
-#define MQTT_PASS "6c543ffc939d42798bb69ae0f9b572ec"
+#define MQTT_NAME "Your username"
+#define MQTT_PASS "Your AIO Key"
 
 #define led D7
 
